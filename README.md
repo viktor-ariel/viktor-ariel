@@ -22,6 +22,7 @@
   <br><hr><br>
   
   <a href="https://www.linkedin.com/in/viktor-ariel-leal-b20919233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="mailto:viktorariel777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
      
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="colar o url da imagem depois"> -->
 <!---
