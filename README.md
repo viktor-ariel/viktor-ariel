@@ -1,5 +1,5 @@
 <hr>
-<h2 align="center">  Olá, eu sou Viktor Ariel estudante em Desenvolvimento 🌎</h2>
+<h2 align="center">  Olá, eu sou Viktor Ariel</h2>
 <p>- 👋 Olá meu nome é Viktor Ariel</p>
 <p>- 🌱 Estudando desenvolvimento full stack</p>
 <p>- 📫 Contato pelo e-mail: viktorariel777@gmail.com</p>
