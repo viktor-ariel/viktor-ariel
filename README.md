@@ -5,7 +5,7 @@
 <p>- 📫 Contato pelo e-mail: viktorariel777@gmail.com</p>
 <p>- 🔎 "What I cannot create, I do not understand"</p>
 
-<br><hr><br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/viktor-ariel">
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-ariel&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-  <br><hr><br>
+  <br><br>
   <div>
  <img align="center" alt="viktor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="viktor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
