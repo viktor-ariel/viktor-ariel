@@ -8,10 +8,10 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/viktor-ariel">
+  <!-- <a href="https://github.com/viktor-ariel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viktor-ariel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-ariel&layout=compact&langs_count=7&theme=merko"/>
-</div>
+</div> -->
   
   <br><br>
   <div>
