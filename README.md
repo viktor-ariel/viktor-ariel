@@ -6,18 +6,20 @@
 <p>- 🔎 "What I cannot create, I do not understand"</p>
 
 <br><br>
-
+<!--
 <div align="center">
    <a href="https://github.com/viktor-ariel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viktor-ariel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-ariel&layout=compact&langs_count=7&theme=merko"/>
-</div> 
+</div> -->
   
   <br><br>
   <div>
  <img align="center" alt="viktor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="viktor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="viktor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="viktor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
   </div>
   <br><hr><br>
  
