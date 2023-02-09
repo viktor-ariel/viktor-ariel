@@ -1,7 +1,7 @@
 <hr>
 <h2 align="center">  Olá, eu sou Viktor Ariel</h2>
 <p>- 👋 Olá meu nome é Viktor Ariel</p>
-<p>- 🌱 Estudando desenvolvimento full stack</p>
+<p>- 🌱 Engineer Software</p>
 <p>- 📫 Contato pelo e-mail: viktorariel777@gmail.com</p>
 <p>- 🔎 "What I cannot create, I do not understand"</p>
 
@@ -19,12 +19,14 @@
  <img align="center" alt="viktor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="viktor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="viktor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="viktor-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
           
   </div>
   <br><hr><br>
  
   <a href="https://linkedin.com/in/viktor-ariel-b20919233"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="mailto:viktorariel777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://trailblazer.me/id/variel"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
     <div>
    <img aling="right" alt="viktor ariel" src="https://c.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif">
     </div>
