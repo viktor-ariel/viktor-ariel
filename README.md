@@ -1,8 +1,8 @@
 <hr>
-<h2 align="center">  Olá, eu sou Viktor Ariel</h2>
-<p>- 👋 Olá meu nome é Viktor Ariel</p>
+<h2 align="center"> Hello, I'm Viktor Ariel</h2>
+<p>- 👋 Hello my name is Viktor Ariel</p>
 <p>- 🌱 Engineer Software</p>
-<p>- 📫 Contato pelo e-mail: viktorariel777@gmail.com</p>
+<p>- 📫 Contact: viktorariel777@gmail.com</p>
 <p>- 🔎 "What I cannot create, I do not understand"</p>
 
 <br><br>
