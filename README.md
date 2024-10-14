@@ -49,7 +49,7 @@
       <a href="https://www.credly.com/badges/7ba3ada3-fafe-498a-a5a1-76a808d32a2c" target="_blank"><img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" height="110px" /></a>
       <a href="https://www.credly.com/badges/6438379d-74e7-4080-9835-0e2c8c95f0e0" target="_blank"><img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" height="110px" /></a>
       <a href="https://www.credly.com/badges/724cbe2e-0dcd-4897-8077-fb42a7b02e86" target="_blank"><img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" height="110px" /></a>
-      <a href="https://www.credly.com/badges/a54317a2-19e4-4679-804d-85b0374b42d2" target="_blank"><img src="https://images.credly.com/size/340x340/images/e6a0b729-1ae7-419b-965b-2202f09a9c72/Node_RED_-_Basics_to_Bots_-_IDSN.png" height="110px" /></a>
+      <a href="https://www.credly.com/badges/a54317a2-19e4-4679-804d-85b0374b42d2" target="_blank"><img src="https://images.credly.com/images/cc48c11c-6567-4b63-8c0f-0e2c030f1d95/blob" height="110px" /></a>
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=124AA133334A5B5EF3B7A3D58118E490B90DE43FD782F65BB8103B0045488896" target="_blank"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png" height="110px" /></a>
    </div>
  
