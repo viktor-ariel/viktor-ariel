@@ -2,7 +2,6 @@
 <h2 align="center"> Hello, I'm Viktor Ariel</h2>
 <p>- 👋 Hello my name is Viktor Ariel</p>
 <p>- 🌱 Engineer Software</p>
-<p>- 📫 Contact: viktorariel777@gmail.com</p>
 <p>- 🔎 "What I cannot create, I do not understand"</p>
 
 <br><br>
